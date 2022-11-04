@@ -1,0 +1,24 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KishorDMane/Backend1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server":"^0.17.0"
+  },
+  "bugs": {
+    "url": "https://github.com/KishorDMane/Backend1/issues"
+  },
+  "homepage": "https://github.com/KishorDMane/Backend1#readme"
+}
